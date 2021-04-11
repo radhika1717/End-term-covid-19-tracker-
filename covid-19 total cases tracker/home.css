@@ -1,0 +1,45 @@
+* {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body
+{
+    background-image: url(CVbackground.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Calibri';
+    color: white;
+}
+h1
+{
+    text-align: center;
+    font-weight: bold;
+    color:white;
+}
+div
+{
+    width:50%;
+    margin: 20px;
+    padding: 5%;
+    margin: auto;
+}
+
+#text
+{
+    background-color: #d44317;
+    display: none;
+    width: 100%;
+}
+button 
+{
+    background-color: navy;
+    color: white;
+    
+}
+input{
+    padding: 5px;
+    margin-right:20px;
+}
